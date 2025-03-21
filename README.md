@@ -62,7 +62,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Numerology by Harshvardhan Rajpurohit</h1>
+        <h1>Yours Numrrique by Harshvardhan Rajpurohit</h1>
         <p>Unlock the power of numbers to achieve balance and success in life.</p>
         
         <div class="services">
